@@ -10,7 +10,7 @@
 </h1>
 <h2 align="center">A passionate Full Stack Developer from India</h2>
 <br>
-<img align="right" alt="coding" height="230" width="330" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
+<img align="right" alt="coding" height="220" width="320" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
 
 
 <br/>
